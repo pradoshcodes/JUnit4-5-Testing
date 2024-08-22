@@ -156,14 +156,5 @@ gradle test
 
 Both JUnit4 and JUnit5 are well supported by most Java IDEs like IntelliJ IDEA, Eclipse, and NetBeans. You can run tests directly from the IDE.
 
-## Contributing
 
-Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request. Make sure your code adheres to the existing style and includes relevant test cases.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README provides a comprehensive overview of your repository, guiding users on how to set up, understand the differences between JUnit4 and JUnit5, write tests, and follow best practices.
